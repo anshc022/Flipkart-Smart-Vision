@@ -13,6 +13,9 @@ This project aims to implement a robust quality control system that leverages im
 - **Database Integration**: Communicates with a central database via Flask API for product verification and inventory updates.
 - **User Dashboard**: Provides a real-time interface using Next.js for monitoring product conditions, inventory levels, and generating alerts for defective products.
 - **Continuous Improvement**: Incorporates a feedback loop for model retraining, enhancing accuracy over time based on inspection data.
+## System_architecture
+![image](https://github.com/user-attachments/assets/470339de-8892-45e2-bca4-0806f4b5479d)
+![Untitled Diagram drawio (9)](https://github.com/user-attachments/assets/39fac79e-09a1-4418-96ff-f5cc285f9e92)
 
 ## Technology Stack
 - **Frontend**: Next.js for the user dashboard.
